@@ -1,0 +1,23 @@
+{
+  "name": "diceware-web",
+  "version": "1.0.0",
+  "description": "generate and display diceware passwords",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server --no-browser --cors ./public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ckxng@dev.azure.com/ckxng/Diceware%20Web/_git/Diceware%20Web"
+  },
+  "keywords": [
+    "security",
+    "passwords",
+    "diceware"
+  ],
+  "author": "Cameron King <http://cameronking.me>",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
