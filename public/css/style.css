@@ -1,44 +1,44 @@
 .wrapper {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    text-align: center;
-    background-color: black;
-    padding-top: 10%;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+  background-color: black;
+  padding-top: 10%;
 }
 
 .wrapper p {
-    vertical-align: middle;
-    text-align: center;
-    line-height: 1.5;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 1.5;
 }
 
 #password {
-    text-align: center;
-    padding: 0.5em;
-    border-style: dotted;
-    resize: none;
-    width: 90%;
-    max-width: 45em;
-    color: white;
-    background-color: black;
-    font-size: 150%;
-    vertical-align: middle;
-    height: 2.1em;
+  text-align: center;
+  padding: 0.5em;
+  border-style: dotted;
+  resize: none;
+  width: 90%;
+  max-width: 45em;
+  color: white;
+  background-color: black;
+  font-size: 150%;
+  vertical-align: middle;
+  height: 2.1em;
 }
 
 a#generate {
-    color: grey;
-    border-style: none;
-    background-color: black;
-    font-size: 5em;
-    text-decoration: none;
+  color: grey;
+  border-style: none;
+  background-color: black;
+  font-size: 5em;
+  text-decoration: none;
 }
 
 a:hover#generate {
-    color: white;
+  color: white;
 }
