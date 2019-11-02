@@ -4,7 +4,7 @@
   "description": "generate and display diceware passwords",
   "main": "app.js",
   "scripts": {
-    "lint:js": "jslint public/{index,eff}.js",
+    "lint:js": "jslint public/index.js",
     "lint:html": "htmllint public/*.html",
     "lint": "npm-run-all lint:js lint:html",
     "start": "live-server --no-browser --cors ./public/"
