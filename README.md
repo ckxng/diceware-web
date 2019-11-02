@@ -7,6 +7,10 @@ generates 8-word Diceware passwords.
 
     npm run start
 
+# Screenshot
+
+[![Screenshot](./screenshot_thumb.png)](./screenshot.png)
+
 # Author
 
 [Cameron King](http://cameronking.me)
