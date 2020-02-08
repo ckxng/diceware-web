@@ -19,7 +19,7 @@ https://ckxng.github.io/diceware-web/public/
 
 # Screenshot
 
-[![Screenshot](./screenshot_thumb.png)](./screenshot.png)
+[![Screenshot](https://ckxng.github.io/diceware-web/screenshot_thumb.png)](https://ckxng.github.io/diceware-web/screenshot.png)
 
 # Author
 
