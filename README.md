@@ -1,4 +1,4 @@
-![Node.js CI](https://github.com/ckxng/diceware-web/workflows/Node.js%20CI/badge.svg)![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ckxng/diceware-web)
+![Node.js CI](https://github.com/ckxng/diceware-web/workflows/Node.js%20CI/badge.svg)[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ckxng/diceware-web)](https://hub.docker.com/r/ckxng/diceware-web)
 
 # Diceware Web
 
