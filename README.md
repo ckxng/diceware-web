@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/ckxng/diceware-web/workflows/Node.js%20CI/badge.svg)![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ckxng/diceware-web)
+
 # Diceware Web
 
 Diceware Web is a static, JavaScript site with no external resources that
