@@ -7,6 +7,16 @@ generates 8-word Diceware passwords.
 
     npm run start
 
+OR
+
+    docker run ckxng/diceware-web:latest
+
+# Live Demo
+
+http://diceware.azurewebsites.net/
+
+Please allow a minute for the container to boot.  If the container does not come up in a few minutes, try again the next day.
+
 # Screenshot
 
 [![Screenshot](./screenshot_thumb.png)](./screenshot.png)
