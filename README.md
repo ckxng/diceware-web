@@ -13,7 +13,7 @@ OR
 
 # Live Demo
 
-http://diceware.azurewebsites.net/
+https://diceware.azurewebsites.net/
 
 Please allow a minute for the container to boot.  If the container does not come up in a few minutes, try again the next day.
 
