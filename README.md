@@ -11,7 +11,7 @@ generates 8-word Diceware passwords.
 
 OR
 
-    docker run ckxng/diceware-web:latest
+    docker run -p 80:80 ckxng/diceware-web:latest
 
 # Live Demo
 
